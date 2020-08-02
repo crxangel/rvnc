@@ -13,8 +13,7 @@ module.exports = class WhoMadeMeCommand extends Command {
 
   run(message) {
     message.say(
-      'Made by ℂℝX̷ II AnGeL
-#1111 with :heart: / support server https://discord.gg/YBRhzNP '
+      'Made by ℂℝX̷ II AnGeL#1111 with :heart: / support server https://discord.gg/YBRhzNP '
     );
   }
 };
