@@ -2,9 +2,9 @@
   "prefix": ">>",
   "discord_owner_id": "703887673164693544",
   "token": "NzM4Mjg5NTM1MTgzNjE4MTMy.XyJvtQ.VnEt4kywg3GNibJz_v6oNqWxtHI",
-  "tenorAPI": "tenor-API-key",
-  "newsAPI": "news-api-key",
-  "youtubeAPI": "youtube-api-key",
-  "yandexAPI": "yandex-api-key",
-  "geniusLyricsAPI": "genius-api-key"
+  "tenorAPI": "4F99NBL9MMTE",
+  "newsAPI": "5e0a2f1f727448259d61809cfeeabe75",
+  "youtubeAPI": "AIzaSyC5NhFrMteysJ_SzrLhrQlLjIId0mEco58",
+  "yandexAPI": "pdct.1.1.20200802T163413Z.6067a794fc18cfe4.1d09b9b7a461ee12e01052a673950f30549bed40",
+  "geniusLyricsAPI": "H9DwaOOqm1GZ-M1bTey04wi3cb_TfPE-0vfSjSu0_xZmL-aXQ80p06Bsj9fPKYYu"
 }
