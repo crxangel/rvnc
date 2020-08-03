@@ -1,6 +1,6 @@
-const { MessageEmbed } = require("discord.js");
-module.exports = {
-class WhoMadeMeCommand extends Command {
+const { Command } = require('discord.js-commando');
+
+module.exports = class WhoMadeMeCommand extends Command {
   constructor(client) {
     super(client, {
       name: 'whomademe',
