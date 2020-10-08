@@ -48,7 +48,7 @@ client.registry
 
 client.once('ready', () => {
   console.log('Ready!');
-  client.user.setActivity(`${prefix}help`, {
+  client.user.setActivity(`SHAL Singing`, {
     type: 'WATCHING',
     url: 'https://github.com/galnir/Master-Bot'
   });
